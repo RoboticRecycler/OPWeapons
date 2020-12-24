@@ -1,0 +1,21 @@
+﻿{
+  "Name": "OPWeapons",
+  "Author": "RoboticRecycler",
+  "Version": "1.0.0",
+  "Description": "[CP] OP Weapons",
+  "UniqueID": "roboticrecycler.opweaponsCP",
+  "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+  },
+    "MinimumApiVersion": "3.8.0",
+    "Dependencies": [
+	{
+	    "UniqueID": "Pathoschild.ContentPatcher",
+	    "IsRequired": true,
+	},
+	{
+	    "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+	    "IsRequired": true,
+	}],
+    "UpdateKeys": []
+}

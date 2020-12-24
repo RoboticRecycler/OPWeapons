@@ -1,0 +1,21 @@
+﻿{
+  "Name": "OPWeapons",
+  "Author": "RoboticRecycler",
+  "Version": "1.0.0",
+  "Description": "[JA]OP Weapons",
+  "UniqueID": "roboticrecycler.opweaponsJA",
+  "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets",
+  },
+    "MinimumApiVersion": "3.8.0",
+    "Dependencies": [
+	{
+	    "UniqueID": "spacechase0.JsonAssets",
+	    "IsRequired": true,
+	},
+	{
+	    "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+	    "IsRequired": true,
+	}],
+    "UpdateKeys": []
+}

@@ -1,0 +1,28 @@
+{
+	"Name": "Divine Blade",
+	"Description": "It is very godly indeed.",
+	"Type": "sword",
+	"MinimumDamage": 160,
+	"MaximumDamage": 380,
+	"Knockback": 1.15,
+	"Speed": 9,
+	"Accuracy": 100,
+	"Defense": 20,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.25,
+	"CritMultiplier": 3,
+	"NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	},
+    "ContextTags": 
+        [
+        "season_summer",
+            ],
+}

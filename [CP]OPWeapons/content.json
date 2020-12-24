@@ -1,0 +1,39 @@
+﻿
+{
+    "Format": "1.19.0",
+    "Changes": [
+	{
+	    //WEAPON DATA   
+	    "Action": "EditData",
+	    "Target": "Data/Weapons",
+	    "Fields": {
+		"62": { 2:120, 3:260, 4:1.2, 5:8, 7: 10,12:.2, 13:3 },
+		"63": { 2:105, 3:210, 4:2.5, 5:1, 7: 35,12:.1, 13:3 }
+	    }
+	},
+	{
+	    "Action": "EditData",
+	    "Target": "Data/ObjectContextTags",
+	    "TextOperations": [
+		{
+		    "Operation": "Append",
+		    "Target": ["Entries", "Tempered Galaxy Sword"],
+		    "Value": "sword_galaxy",
+		    "Delimiter": ", "
+		},
+		{
+		    "Operation": "Append",
+		    "Target": ["Entries", "Tempered Galaxy Dagger"],
+		    "Value": "dagger_galaxy",
+		    "Delimiter": ", "
+		},
+		{
+		    "Operation": "Append",
+		    "Target": ["Entries", "Galaxy Soul"],
+		    "Value": "soul_galaxy",
+		    "Delimiter": ", "
+		}	
+	    ]
+	}
+    ]
+}
