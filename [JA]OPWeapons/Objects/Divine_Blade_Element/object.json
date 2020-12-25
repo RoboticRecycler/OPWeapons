@@ -1,0 +1,22 @@
+{
+    "Name":"Divine Blade Element",
+    "Description":"You are almost at the door of the Divine...",
+    "Price":10000,
+    "Category":"Crafting",
+    "Recipe":
+    {
+	"ResultCount": 1,
+	"Ingredients": [ { "Object": 334, "Count": 50 },
+			 { "Object": 335, "Count": 50 },
+			 { "Object": 336, "Count": 25 },
+			 { "Object": 337, "Count": 25 },
+			 { "Object":"Void Shard", "Count" : 1},
+			 { "Object":"Galaxy Blade Element", "Count" : 1}
+		       ],	
+	"CanPurchase": true,
+	"PurchaseFrom": "Marlon",
+	"PurchasePrice": 5000000,
+	"PurchaseRequirements": [ "f MarlonFay 2500" ],
+    },
+    "ContextTags": ["opweapons_divine_blade_element"]
+}

@@ -1,0 +1,7 @@
+{
+    "Name":"Galaxy Dagger Element",
+    "Description":"An element for something bigger...",
+    "Price":10000,
+    "Category":"Crafting",
+    "ContextTags": ["opweapons_galaxy_dagger_element"]
+}

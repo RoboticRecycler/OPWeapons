@@ -1,6 +1,6 @@
 {
     "BaseItemName":"Galaxy Dagger",
     "IngredientContextTag":"soul_galaxy",
-    "CinderShardCost":0,
-    "ResultItemName":"Galaxy Dagger"
+    "CinderShardCost":50,
+    "ResultItemName":"Galaxy Dagger Element"
 }

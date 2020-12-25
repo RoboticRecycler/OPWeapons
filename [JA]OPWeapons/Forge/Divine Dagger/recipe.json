@@ -1,6 +1,6 @@
 {
     "BaseItemName":"Infinity Dagger",
-    "IngredientContextTag":"dagger_galaxy",
-    "CinderShardCost":200,
+    "IngredientContextTag":"opweapons_divine_dagger_element",
+    "CinderShardCost":300,
     "ResultItemName":"Divine Dagger"
 }

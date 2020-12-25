@@ -1,0 +1,7 @@
+{
+    "Name":"Galaxy Blade Element",
+    "Description":"An element for something bigger...",
+    "Price":10000,
+    "Category":"Crafting",
+    "ContextTags": ["opweapons_galaxy_blade_element"]
+}
